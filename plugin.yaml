@@ -1,0 +1,6 @@
+plugin:
+    name: 'nuts.morphos::lang.plugin.name'
+    description: 'nuts.morphos::lang.plugin.description'
+    author: Nuts
+    icon: wn-icon-adjust
+    replaces: {  }
